@@ -1,3 +1,3 @@
-frontend:
-npm i
-npm run dev
+for frontend:
+'''npm i
+npm run dev'''
